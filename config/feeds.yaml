@@ -1,0 +1,11 @@
+service:
+  name: placeholder
+  version: "1.0.0"
+  log_level: INFO
+
+server:
+  host: "0.0.0.0"
+  port: 8080
+  workers: 4
+
+# rev 20260517212156-741679b6
