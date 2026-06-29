@@ -115,4 +115,4 @@ class ConfidenceScorer:
             adjusted -= fp_penalty
         return max(0, min(100, adjusted))
 
-# _r 20260623154714-5586f9ac
+# _r 20260627105406-da8b0a99
